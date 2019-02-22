@@ -1,0 +1,500 @@
+   61  git push /m/devops/git-central master
+   62  git log
+   63  git init
+   64  git config --global user.name "hari"
+   65  git config -l
+   66  git config --global user.name=nani
+   67  git config --global user.name="ani
+   68  git config --global user.name"naani
+   69  "
+   70  git config --global user.name"naani
+   71  "
+   72  git config --global user.name "suri"
+   73  git config -l
+   74  git config --global user.email "harit.naidu@gmail.com"
+   75  git config -l
+   76  git status
+   77  git status
+   78  git add abc.txt
+   79  git status abc.txt
+   80  git status
+   81  git rm --cached abc.txt
+   82  git status
+   83  git log
+   84  git add abc.txt
+   85  git status
+   86  git
+   87  git help -a
+   88  git commit -g
+   89  git commit --dry-run
+   90  git log
+   91  git commit -h
+   92  git --short
+   93  git --version
+   94  git commit -m "my first file" abc.txt
+   95  git status
+   96  git log
+   97  git log -h
+   98  git status
+   99  git 
+  100  git show -a
+  101  git show
+  102  git status
+  103  git commit -a
+  104  git status
+  105  git status -a
+  106  git log
+  107  git log -a
+  108  git status -a
+  109  git show -a
+  110  date
+  111  difff --git a/abc.txt b/abc.txt
+  112  diff --git a/abc.txt b/abc.txt
+  113  git status
+  114  pwd
+  115  touch 1
+  116  uname -a
+  117  touch f5 f6 f7
+  118  ls
+  119  git status
+  120  git status -a
+  121  git status -h
+  122  git status -v
+  123  git add
+  124  git add f5 1 
+  125  git status
+  126  git add .
+  127  git status
+  128  git commit -m "label 1" 1
+  129  git status
+  130  git log
+  131  date
+  132  git commit -m "3rd commit"
+  133  git log
+  134  pwd
+  135  git log|sort -n
+  136  git log
+  137  pwd
+  138  ls
+  139  git show f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  140  git show f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  141  ls
+  142  clear
+  143  clear
+  144  uname -a
+  145  git status
+  146  git log
+  147  git commit 
+  148  git status
+  149  git log
+  150  ate
+  151  date
+  152  git commit -m "4th commit"
+  153  git add 
+  154  git status
+  155  git status .
+  156  git add .
+  157  git status
+  158  git commit
+  159  git commit -m "4th commit"
+  160  git log
+  161  clear
+  162  git status
+  163  git log
+  164  git show 650c32d6dd05999edb9550fb3add4f2601cbbe8e
+  165  date
+  166  git log
+  167  git show f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  168  ls
+  169  git 
+  170  ls
+  171  vi f6
+  172  cat f6
+  173  top
+  174  sar
+  175  git log
+  176  git show f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  177  git status
+  178  git add f6
+  179  git status
+  180  git commit -m "f6 file"
+  181  git log
+  182  git show f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  183  git show 50398f65dceb3c2ead1187d2df236fba4386c138
+  184  touch f9
+  185  vi f9
+  186  git add .
+  187  git commit -m "f9 file"
+  188  git show 
+  189  git log
+  190  git reset f1b77f21b0d6d7c2e7a7bd65dab4a7ba5ee9f95d
+  191  git stastus
+  192  git status
+  193  git commit -a
+  194  git status
+  195  ls
+  196  file sbi-credit-card-payment.docx
+  197  exit
+  198  ssh -i "ansible.pem" ubuntu@ec2-18-222-185-199.us-east-2.compute.amazonaws.com
+  199  exit
+  200  ssh -i "ansible.pem" ec2-user@ec2-18-217-142-109.us-east-2.compute.amazonaws.com
+  201  exit
+  202  ssh -i "ansible.pem" ubuntu@ec2-18-222-185-199.us-east-2.compute.amazonaws.com
+  203  clear
+  204  pwd
+  205  ssh -i "ansible.pem" ubuntu@ec2-52-15-245-94.us-east-2.compute.amazonaws.com
+  206  exit
+  207  cd .
+  208  cd .
+  209  ssh -i "ansible.pem" ec2-user@ec2-18-216-115-194.us-east-2.compute.amazonaws.com
+  210  ssh -i "ansible.pem" ec2-user@ec2-18-216-115-194.us-east-2.compute.amazonaws.com
+  211  ssh -i "ansible.pem" ec2-user@ec2-18-216-115-194.us-east-2.compute.amazonaws.com
+  212  ssh -i "ansible.pem" ec2-user@ec2-18-216-115-194.us-east-2.compute.amazonaws.com
+  213  ssh -i "ansible.pem" ubuntu@ec2-18-222-185-199.us-east-2.compute.amazonaws.com
+  214  ssh -i "ansible.pem" ubuntu@ec2-18-222-185-199.us-east-2.compute.amazonaws.com
+  215  ssh -i "ansible.pem" ubuntu@ec2-18-222-185-199.us-east-2.compute.amazonaws.com
+  216  cd .
+  217  git pull origin  master
+  218  touch 1
+  219  git add 
+  220  git add .
+  221  git commit -m "1st commit on dev" .
+  222  git push origin dev
+  223  pwd
+  224  cd ..
+  225  opwd
+  226  opwd
+  227  pwd
+  228  git config --list
+  229  pwd
+  230  cd .git
+  231  pwd
+  232  cd .git
+  233  ls
+  234  cd GIT-practice/
+  235  ls
+  236  git branch
+  237  git checkout master
+  238  ls
+  239  git config --list
+  240  pwd
+  241  cd .git
+  242  ls
+  243  cat config
+  244  pwd
+  245  cd ..
+  246  ls
+  247  pwd
+  248  git log --online
+  249  git log --oneline
+  250  git show
+  251  git shortlog
+  252  git log 1
+  253  git diff 1 2
+  254  pwd
+  255  ls
+  256  rm 1
+  257  rm 2
+  258  git log --online
+  259  git log --oneline
+  260  touch 1-master
+  261  touch 2-master
+  262  vi 1-master
+  263  vi 2-master
+  264  cat 1-master
+  265  cat 2-master
+  266  git log --online -5
+  267  git log --oneline -5
+  268  git add .
+  269  git log
+  270  git show
+  271  git status
+  272  git commit -a -m "1-master by master" 1-master
+  273  git commit -m "1-master by master" 1-master
+  274  git status
+  275  git reset 1
+  276  git reset --1
+  277  git push
+  278  git push origin master
+  279  git branch
+  280  git checkout -d dev
+  281  git help
+  282  git branch --help
+  283  git branch -D dev
+  284  git branch
+  285  git push
+  286  cat .git/config 
+  287  git push origin master
+  288  git status
+  289  git commit -a -m "alll"
+  290  git status
+  291  git push origin master
+  292  git pull
+  293  git pull origin master
+  294  git push
+  295  git push origin master
+  296  git pull origin master
+  297  touch x
+  298  ls x
+  299  ls 
+  300  git pull origin master
+  301  git push origin master
+  302  git add x
+  303  git status
+  304  git reset x
+  305  git status
+  306  git add x
+  307  git status
+  308  git commit -m "x 1st commit"
+  309  git status
+  310  git push origin master
+  311  vi x
+  312  git status
+  313  git pull origin master
+  314  ls
+  315  cat x
+  316  git status
+  317  git add x
+  318  git status
+  319  git commit -m "x 2nd commit"
+  320  git status
+  321  cat x
+  322  git pull origin master
+  323  cat x
+  324  ls -l x
+  325  date
+  326  git status
+  327  git log
+  328  git log --oneline
+  329  git diff a6d67a3 2fe72e8
+  330  vi x
+  331  git status
+  332  git commit 
+  333  git commit -m "3rd commit " .
+  334  git status
+  335  git log --oneline
+  336  git diff a6d67a3 39544e3
+  337  git diff 2fe72e8 39544e3
+  338  git shortlog
+  339  git branch
+  340  git log --oneline
+  341  cat 3
+  342  cat x
+  343  git status
+  344  git show
+  345  cat x
+  346  git log --oneline
+  347  git log x
+  348  git checkout 2fe72e8178b8d785c74865984c8cf4fb48d5f5ff x
+  349  git log x
+  350  git log 
+  351  git status
+  352  git commit -m "x by 4th commit" .
+  353  git status
+  354  git log --oneline
+  355  cat x
+  356  git show 39544e3
+  357  git stash
+  358  cat x
+  359  git log --oneline
+  360  git diff d447fdc 39544e3
+  361  cat x
+  362  git diff 39544e3 d447fdc
+  363  git diff d447fdc 39544e3
+  364  cat x
+  365  git log --oneline -1
+  366  vi x
+  367  git add 
+  368  git commit -m " 5th commit by x " .
+  369  cat x
+  370  git status
+  371  git log --oneline -2
+  372  cat x
+  373  git diff d447fdc e03d01a
+  374  git diff e03d01a d447fdc
+  375  git diff e03d01a d447fdc --color-words
+  376  git log --oneline -2
+  377  cat x
+  378  git diff
+  379  clear
+  380  pwd
+  381  cd ..
+  382  ls
+  383  pwd
+  384  mkdir conflicts
+  385  cd conflicts/
+  386  touch README.md
+  387  ls -l
+  388  cd ..
+  389  ls
+  390  cd GIT-practice/
+  391  ls
+  392  cd ../
+  393  ls
+  394  cd conflicts/
+  395  ls
+  396  git init 
+  397  git status
+  398  git remote add origin https://github.com/harithansi/conflicts.git
+  399  git pull origin master
+  400  git status
+  401  cat README.md 
+  402  ls -l README.md 
+  403  date
+  404  git pull origin master
+  405  ls
+  406  ls -l
+  407  git stash --help
+  408  git stash
+  409  git status
+  410  cp -rp README.md README.md1
+  411  git add README.md1
+  412  git commit -m "md1 file"
+  413  git status
+  414  git stash
+  415  git add .
+  416  git stash
+  417  git stash list
+  418  git log --oneline
+  419  git status
+  420  clear
+  421  ls -l
+  422  pwd
+  423  git status
+  424  touch test
+  425  git status
+  426  git stash
+  427  git add .
+  428  git status
+  429  git stash
+  430  git stash list
+  431  git stash show stash{1}
+  432  git stash show stash@{1}
+  433  git stash show stash@{0}
+  434  git pull origin master
+  435  ls -l
+  436  cat README.md1 
+  437  cd .git
+  438  ls
+  439  cat config 
+  440  git pull origin master
+  441  cd ..
+  442  git pull origin master
+  443  git fetch origin master
+  444  ls
+  445  cd .git
+  446  ls
+  447  cat FETCH_HEAD 
+  448  cd ..
+  449  ls
+  450  git pull origin
+  451  git pull origin master
+  452  git fetch
+  453  ls
+  454  cd .git
+  455  ls
+  456  cat HEAD 
+  457  caT description 
+  458  caT description 
+  459  cat description 
+  460  cd ..
+  461  clear
+  462  ls
+  463  cd ..
+  464  ls
+  465  mkdir git
+  466  cd git
+  467  git init
+  468  git remote add origin https://github.com/harithansi/conflicts.git
+  469  git pull origin master
+  470  ls
+  471  vi 2
+  472  ls
+  473  git status
+  474  git pull origin master
+  475  ls
+  476  git status
+  477  git add .
+  478  git pull origin master
+  479  ls
+  480  git status
+  481  git commit -m "2"
+  482  git pull origin master
+  483  git status
+  484  cat 2
+  485  cd ..
+  486  ls
+  487  cd conflicts/
+  488  ls
+  489  cd .git
+  490  ls
+  491  cat FETCH_HEAD 
+  492  cd ..
+  493  git merge pill origin master
+  494  git merge --help
+  495  git merge --abort
+  496  git merge --continue
+  497  ls
+  498  git stash list
+  499  git stash apply stash@{1}
+  500  git pull origin master
+  501  ls
+  502  cd ..
+  503  cd conflicts/.git/
+  504  ls
+  505  cd ..
+  506  rm -rf .git/
+  507  ls
+  508  ls -l
+  509  git init
+  510  git remote add origin https://github.com/harithansi/conflicts.git
+  511  git pull origin master
+  512  ls
+  513  cat README.md
+  514  rm -rf .git
+  515  git init
+  516  git remote add origin https://github.com/harithansi/conflicts.git
+  517  git statsh
+  518  git stash
+  519  ls
+  520  git status
+  521  git add .
+  522  git stash
+  523  git commit -m "jkAJ"
+  524  git stash
+  525  touch README.md
+  526  git pull origin master
+  527  git pull origin master --allow-unrelated-histories
+  528  ls
+  529  git stash list
+  530  git stash apply stash{0}
+  531  git status
+  532  ls
+  533  cat README.md
+  534  git log
+  535  touch stash
+  536  rm stash
+  537  touch sandeep
+  538  ls
+  539  git status
+  540  vi sandeep 
+  541  vi sandeep 
+  542  cat sandeep 
+  543  git status
+  544  git add .
+  545  ls
+  546  git status
+  547  git stash list
+  548  git stash --list
+  549  git stash list
+  550  git status
+  551  git stash
+  552  git status
+  553  git pull origin master
+  554  ls
+  555  cat sandeep 
+  556  git stash list
+  557  git stash apply stash@{0}
+  558  cat sandeep 
+  559  history
+  560  history > history.txt
